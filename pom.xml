@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <name>Infusionsoft Java SDK Example</name>
+    <version>0.0.1</version>
+    <groupId>com.infusionsoft</groupId>
+    <artifactId>infusionsoft-sdk-java-sample</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.infusionsoft</groupId>
+            <artifactId>infusionsoft-sdk-java</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
+</project>
